@@ -1,10 +1,5 @@
 <h3 align="center">Java/Spring Backed Focused Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-aguirre88&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-aguirre88" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-aguirre88" alt="carlos-aguirre88" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 My name is Carlos Aguirre I've been developing backend software for 9 years mostly in Java, I'm very curious to learn about microservices architecture and start developing for the cloud in a short term.
 
 - 🌱 I’m currently learning **Micro Services**
@@ -20,8 +15,14 @@ My name is Carlos Aguirre I've been developing backend software for 9 years most
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-aguirre88" alt="carlos-aguirre88" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-aguirre88&show_icons=true&locale=en&layout=compact" alt="carlos-aguirre88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-aguirre88&show_icons=true&locale=en" alt="carlos-aguirre88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-aguirre88&" alt="carlos-aguirre88" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-aguirre88&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-aguirre88" /> </p>
