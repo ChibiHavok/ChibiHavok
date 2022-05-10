@@ -1,6 +1,6 @@
 - 👋 I’m Carlos Aguirre
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Cloud 
+- 🌱 I’m currently learning Microservices
 - 📫 How to reach me carlos.agguirre@gmail.com
 
 <!---
